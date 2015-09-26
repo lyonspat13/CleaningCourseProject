@@ -62,9 +62,13 @@ meanFreq(): Weighted average of the frequency components to obtain a mean freque
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
 gravityMean
+
 tBodyAccMean
+
 tBodyAccJerkMean
+
 tBodyGyroMean
+
 tBodyGyroJerkMean
 
 After the manipulations listed above, we took the average mean of the measurements by the following variables:
